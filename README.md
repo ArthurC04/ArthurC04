@@ -7,3 +7,4 @@
 <p>- 🔭 Estou atualmente trabalhando em um projeto chamado Vigilante Carioca.</p>
 <p>- 📒 Estou estudando ReactJS, NodeJS, React Native, Docker e MongoDB.</p>
 <p>- 📧 Você pode falar comigo pelo discord ArthurC#9449</p>
+https://www.linkedin.com/in/arthur-castro-9a65521a0/
